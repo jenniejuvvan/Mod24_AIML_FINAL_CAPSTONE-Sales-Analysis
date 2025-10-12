@@ -20,7 +20,9 @@ This project applies **machine learning classification** techniques to analyze a
 - **Model Comparison** — Evaluate and compare the performance of various machine learning classification algorithms.
 
 The dataset used is the **DataCo Supply Chain Dataset**, containing rich customer, product, and logistics information across global transactions.
+The dataset can be downloaded from:
 
+[DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
 ---
 
 ### 🎯 **Objectives**
