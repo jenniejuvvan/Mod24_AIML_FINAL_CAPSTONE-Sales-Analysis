@@ -57,7 +57,6 @@ The dataset can be downloaded from:
 - **One-Hot Encoding (OHE)** for categorical features.  
 - **StandardScaler / MinMaxScaler** for numeric normalization.  
 - **Train-Test Split (80/20)** performed before scaling (to avoid leakage).  
-- **SMOTE** used to address class imbalance in fraud detection.
 
 #### **5. Model Building**
 Trained and evaluated the following classification models:
