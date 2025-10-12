@@ -1,7 +1,7 @@
 # Mod24_AIML_FINAL_CAPSTONE-Sales-Analysis---Late-Delivery-Risk-and-Fraud-Detection-Analysis
 Mod24_AIML_FINAL_CAPSTONE: Sales Analysis - Late Delivery Risk and Fraud Detection Analysis
 
-# 🧠 AIML Capstone Project  
+# 🧠 Mod24_AIML_FINAL_CAPSTONE Project  
 ## **Sales Analysis — Late Delivery Risk & Fraud Detection**
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
