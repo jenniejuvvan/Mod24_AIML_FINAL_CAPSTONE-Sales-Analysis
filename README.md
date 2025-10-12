@@ -163,4 +163,4 @@ cd LateDelivery_Fraud_Detection
 pip install -r requirements.txt
 
 # Open the Jupyter Notebook
-jupyter notebook Mod24_AIML_FINAL_CAPSTONE_Sales_Analysis_Late_delivery_risk_and_fraud_analysis.ipynb
+jupyter notebook- Mod24_AIML_CAPSTONE_Sales_Analysis_Late_Delivery_Risk_and_Fraud_Analysis - FINAL.ipynb
