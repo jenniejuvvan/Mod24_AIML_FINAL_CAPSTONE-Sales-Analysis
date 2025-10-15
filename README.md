@@ -1,8 +1,8 @@
 # Mod24_AIML_FINAL_CAPSTONE-Sales-Analysis
-Mod24_AIML_FINAL_CAPSTONE: Sales Analysis - Late Delivery Risk and Fraud Detection Analysis
+Mod24_AIML_FINAL_CAPSTONE: Sales Analysis - Late deliveries and Fraudulent orders
 
 # 🧠 Mod24_AIML_FINAL_CAPSTONE Project  
-## **Sales Analysis — Late Delivery Risk & Fraud Detection**
+## **Sales Analysis — Late Delivery & Fraudulent orders**
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![ML](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange.svg)
@@ -15,8 +15,8 @@ Mod24_AIML_FINAL_CAPSTONE: Sales Analysis - Late Delivery Risk and Fraud Detecti
 This project focuses on analyzing and predicting late deliveries and fraudulent transactions using machine learning classification techniques. The objective is to identify high-risk transactions and improve operational efficiency across the supply chain.
 The dataset used is DataCo Supply Chain Dataset, which contains over 180,000 records of order, customer, and product details. Two target variables were created for analysis:
 This project applies **machine learning classification** techniques to analyze and predict:
-- **Late Delivery Risk** — which orders are likely to arrive late.
-- **Fraud Detection** — which transactions show suspicious or fraudulent behavior.
+- **Late Delivery** — which orders are likely to arrive late.
+- **Fraudulent orders** — which transactions show suspicious or fraudulent behavior.
 - **Model Comparison** — Evaluate and compare the performance of various machine learning classification algorithms.
 
 The dataset used is the **DataCo Supply Chain Dataset**, containing rich customer, product, and logistics information across global transactions.
@@ -146,7 +146,7 @@ Days for shipping and scheduled shipment time were dominant predictors.
 ---
 
 ### 📈 **Results**
-- **F1 Score (Fraud):** 80.08%  
+- **F1 Score (Fraudulent orders):** 80.08%  
 - **F1 Score (Late Delivery):** 99.49%  
 - **Best Model:** Decision Tree Classifier  
 
