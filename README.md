@@ -40,9 +40,7 @@ The dataset can be downloaded from:
 - Corrected data types (numeric, categorical, date).  
 
 #### **2. Feature Engineering**
-- Created new features like:
-  - `profit_margin = benefit_per_order / sales`
-  - Binary flags for fraud and late deliveries.  
+- Created new features   
 - Dropped date columns before model training to prevent leakage.
 - Derived new variables such as profit ratios and simplified categorical levels.
 - Created binary flags for fraud (suspected_fraud) and late delivery (late_delivery_risk).
